@@ -1,6 +1,8 @@
 ## Oi meu nome é Edson Albuquerque, estudante de programação e tecnologia!
 
-- Estudando Back-end 👨‍💻
+- 👨‍💻 Estudando Back-end
+- 💻 Técnico em Redes de Computadores (ETE-Gravatá) 
+- 👨‍🔧🖥︎ Faço Montagem e Manutenção de Computadores. 
 
 <div align="center">
   <a href="https://github.com/edsonasjr93">
