@@ -2,7 +2,7 @@
 
 - 👨‍💻 Estudando Back-end
 - 💻 Técnico em Redes de Computadores (ETE-Gravatá) 
-- 👨‍🔧🖥︎ Faço Montagem e Manutenção de Computadores. 
+- 👨‍🔧 Montagem e Manutenção de Computadores. 
 
 <div align="center">
   <a href="https://github.com/edsonasjr93">
