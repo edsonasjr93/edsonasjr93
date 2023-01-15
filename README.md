@@ -1,6 +1,6 @@
 ## Oi meu nome é Edson Albuquerque, estudante de programação e tecnologia!
 
-- 👨‍💻 Dev. Jr em formação - Python | HTML, CSS e JavaScript | MySQL | Loading...
+- 👨‍💻 Full Stack Dev. Jr em formação - Python | HTML, CSS e JavaScript | MySQL | Loading...
 - 💻 Técnico em Redes de Computadores (ETE-Gravatá) 
 - 👨‍🔧 Montagem e Manutenção de Computadores. 
 
