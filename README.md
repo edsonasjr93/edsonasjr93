@@ -5,7 +5,7 @@
 - 👨‍🔧 Montagem e Manutenção de Computadores. 
 
 <div align="center">
-<a href=""> <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=edsonasjr93&theme=react&line_height=40&hide=css"/> </a>
+<a href="https://github.com/edsonasjr93"> <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=edsonasjr93&theme=react&line_height=40&hide=css"/> </a>
  </div>
 
   
